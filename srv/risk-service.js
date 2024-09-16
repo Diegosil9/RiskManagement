@@ -110,6 +110,6 @@ module.exports = cds.service.impl(async function () {
         }
 
         return risks;
-    });
+    });    
 
-});     
+});         
